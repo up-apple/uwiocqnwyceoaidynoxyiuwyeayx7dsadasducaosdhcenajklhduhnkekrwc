@@ -1,0 +1,1 @@
+/Users/joel/os/zeroOS/target/release/zeroos: /Users/joel/os/zeroOS/src/crypto/mod.rs /Users/joel/os/zeroOS/src/crypto/pqcrypto.rs /Users/joel/os/zeroOS/src/kernel/isolation.rs /Users/joel/os/zeroOS/src/kernel/memory.rs /Users/joel/os/zeroOS/src/kernel/mod.rs /Users/joel/os/zeroOS/src/kernel/scheduler.rs /Users/joel/os/zeroOS/src/main.rs /Users/joel/os/zeroOS/src/process/mod.rs

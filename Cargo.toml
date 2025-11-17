@@ -1,0 +1,13 @@
+[package]
+name = "zeroos"
+version = "0.1.0"
+authors = ["ArgusAegis <root@argus-aegis.com>"]
+edition = "2021"
+
+[profile.release]
+opt-level = 3
+lto = true
+codegen-units = 1
+
+[dependencies]
+
